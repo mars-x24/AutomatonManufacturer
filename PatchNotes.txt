@@ -1,0 +1,5 @@
+﻿Changes
+-------
+
+1.0.0
+Added water sprinkler, use F6 to add it in "take all" and "match up" lists
