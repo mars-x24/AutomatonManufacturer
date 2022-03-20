@@ -17,7 +17,6 @@
   
   <ItemGroup>
     <Content Include="PatchNotes.txt" />
-    <Content Include="ToDo.txt" />
   </ItemGroup>    
   
   <ItemGroup>
